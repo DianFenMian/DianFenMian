@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/DianFenMian/"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+</p>
+
 # <p align="center">👋 你好，我是淀粉面！</p>
 <p align="center">很高兴遇见你！<br/></p>
 
