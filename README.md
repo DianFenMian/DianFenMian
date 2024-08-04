@@ -1,30 +1,37 @@
-<p align="center">
-  <a href="https://github.com/DianFenMian/"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
-</p>
+# <p align="center">👋 你好，我是淀粉面！</p>
+<p align="center">很高兴遇见你！<br/></p>
+<p align="center"><a href="https://wakatime.com/@018c29a9-6bba-4290-b83c-e1d1582f0233"><img src="https://wakatime.com/badge/user/018c29a9-6bba-4290-b83c-e1d1582f0233.svg"/></a></p>
 
-<h1 align="center">Hi, I'm <a href="https://github.com/DianFenMian/">DianFenMian</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ QwQ</h1>
+### 🚀 关于我
+- 😊 ENTP / 16 y.o. / Student /
+- 🌱 学习中：C/C++ / Java / Python /
+- 🔭 擅长的：Minecraft服务器运维 / 摆烂 / 打游戏 /
 
-<p align="center">
-  <a href="https://github.com/DianFenMian/"><img src="https://github-readme-stats.vercel.app/api?username=DianFenMian&hide_border=true&show_icons=true" alt="DianFenMian's github stats"></a>
-</p>
+### ℹ️ Status
 
-<p align="center">
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DianFenMian&show_icons=true" alt="DianFenMian's GitHub stats" /></a>
 
-<p align="center">❤ I'm currently working on Arduino, Anime , Game Dev, and MinecraftServer.</p>
+### 💻 开发环境
+[![Windows 11](https://img.shields.io/badge/Windows_11-165ccc?style=for-the-badge&logo=windows-11&logoColor=white)](https://zh.wikipedia.org/wiki/Windows_11)
+[![Debian](https://img.shields.io/badge/Debian_12-c70137?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![VS](https://img.shields.io/badge/Vistual_Studio-9745de.svg?&style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/zh-hans/)
 
-<!--
-**yuna0x0/yuna0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ⌨️ 会的东西
+[![HTML](https://img.shields.io/badge/HTML-dd4b25?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JS](https://img.shields.io/badge/JavaScript-efd81d?&style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 有事找我？
+
+注：仅在节假日 / 非工作日回复消息
+- 📧 E-mail：dianfenmian@163.com
+- 🐧 Tencent QQ：0x7ac31cec
+- ✈ Telegram：<a href="https://t.me/DianFenMian">@淀粉面</a>
+- 🐦 Twitter：<a href="https://twitter.com/DianFenMian">@DianFenMian</a>
+-----
+![Count](https://count.getloli.com/get/@DianFenMian?theme=moebooru)
