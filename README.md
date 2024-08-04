@@ -1,6 +1,5 @@
 # <p align="center">👋 你好，我是淀粉面！</p>
 <p align="center">很高兴遇见你！<br/></p>
-<p align="center"><a href="https://wakatime.com/@018c29a9-6bba-4290-b83c-e1d1582f0233"><img src="https://wakatime.com/badge/user/018c29a9-6bba-4290-b83c-e1d1582f0233.svg"/></a></p>
 
 ### 🚀 关于我
 - 😊 ENTP / 16 y.o. / Student /
