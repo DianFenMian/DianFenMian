@@ -8,8 +8,7 @@
 ### 🚀 关于我
 - 😊 ENTP / 16 y.o. / Student /
 - 🌱 学习中：C/C++ / Java / Python /
-- 🔭 擅长的：Minecraft服务器运维 / 摆烂 / 打游戏 /
-
+- 🔭 擅长的：喵喵叫（？） / 摆烂 / 打游戏 /
 ### ℹ️ Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DianFenMian&show_icons=true" alt="DianFenMian's GitHub stats" /></a>
@@ -35,6 +34,6 @@
 - 📧 E-mail：dianfenmian@163.com
 - 🐧 Tencent QQ：0x7ac31cec
 - ✈ Telegram：<a href="https://t.me/DianFenMian">@淀粉面</a>
-- 🐦 Twitter：<a href="https://twitter.com/DianFenMian">@DianFenMian</a>
+- 🐦 Twitter：<a href="https://twitter.com/DianFen_Mian">@DianFen_Mian</a>
 -----
 ![Count](https://count.getloli.com/get/@DianFenMian?theme=moebooru)
